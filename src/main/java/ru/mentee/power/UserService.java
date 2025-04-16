@@ -15,6 +15,6 @@ import java.util.List;
 
         public void addUser(String username) {
             users.add(username);
-            System.out.println("Пользователь добавлен: " + username);
+            System.out.println("Пользователь добавлен : " + username);
         }
     }
